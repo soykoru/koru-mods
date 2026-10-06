@@ -1,0 +1,253 @@
+{
+ "schema": 1,
+ "creado": "2026-10-06T12:31:05Z",
+ "mods": {
+  "7_days_to_die": {
+   "modVersion": "2026.10.02.1848",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/7_days_to_die-2026.10.02.1848/7_days_to_die-2026.10.02.1848.zip",
+    "sha256": "86aa63da76886b8d8db51f159db769501a36aba6aade912bad4214bcd4a46296",
+    "size": 40195
+   },
+   "files": [
+    {
+     "dest": "KoruLink7DTD/KoruLink7DTD.dll",
+     "sha256": "7e122f652d8e38ce45d8f8f0967df875ab41e9eff35bdbc74546db8bf3e76621"
+    },
+    {
+     "dest": "KoruLink7DTD/ModInfo.xml",
+     "sha256": "4eca7202bca91af53b4787c8255dcc821cc785bceccc6d6d77116efa087e937b"
+    }
+   ]
+  },
+  "core_keeper": {
+   "modVersion": "2026.10.02.1910",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/core_keeper-2026.10.02.1910/core_keeper-2026.10.02.1910.zip",
+    "sha256": "bc9e4c94c07e5a2fb2d75e59b0eaafea6aacc8642d249e9e16ab4645d3fbd641",
+    "size": 44765
+   },
+   "files": [
+    {
+     "dest": "KoruLinkCoreKeeper/KoruLinkCoreKeeper.dll",
+     "sha256": "c10d6fe62b93490d07b3e21bd62b07885d8730a28e207a7c873ae7426bc2ca3f"
+    },
+    {
+     "dest": "KoruLinkCoreKeeper/ModManifest.json",
+     "sha256": "9c274d87d17159c54b0b2f7830bba0873d0b136ee25cf414da273190f793639c"
+    }
+   ]
+  },
+  "eldenring": {
+   "modVersion": "2026.10.02.1631",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/eldenring-2026.10.02.1631/eldenring-2026.10.02.1631.zip",
+    "sha256": "15fa9f3e66d14b3a20084b81d4675850c9630e9ccb454dba08903b8aba740da9",
+    "size": 284186
+   },
+   "files": [
+    {
+     "dest": "dinput8.dll",
+     "sha256": "7b6b06d8aeac838d04dc19d14739e16a12d59c92f5133daab3f849f952d03a53"
+    }
+   ]
+  },
+  "hytale": {
+   "modVersion": "2026.10.02.2001",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/hytale-2026.10.02.2001/hytale-2026.10.02.2001.zip",
+    "sha256": "b64a7cb71041380bd05fdea12e1af23bfdc8edd1778b5f8c91644369a695e065",
+    "size": 115212
+   },
+   "files": [
+    {
+     "dest": "KoruLinkHytale.jar",
+     "sha256": "b9f55604c98fbd538c7eb96f737875bab259c8a197e1cdf9843e2209f0e1a7a0"
+    }
+   ]
+  },
+  "minecraft_farmeo": {
+   "modVersion": "1.0.0-mc26.3",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_farmeo-1.0.0-mc26.3/minecraft_farmeo-1.0.0-mc26.3.zip",
+    "sha256": "18e1a5024abd8a31ea1288a6389d61621891b7206a4c5a1cd6d390a364887460",
+    "size": 292228
+   },
+   "files": [
+    {
+     "dest": "korufarmeo-1.0.0-mc26.3.jar",
+     "sha256": "d33b73ef6a797b337b005c8dcea1e2320b44acda7930ab122813d4cffb610df9"
+    }
+   ]
+  },
+  "repo": {
+   "modVersion": "2026.10.02.1822",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/repo-2026.10.02.1822/repo-2026.10.02.1822.zip",
+    "sha256": "9b6ee29ab07ee266e139785734a4c7d333aa9f4b8a835218411bcac494cead86",
+    "size": 41760
+   },
+   "files": [
+    {
+     "dest": "KoruLinkRepo.dll",
+     "sha256": "d90796b317ed1c08e92f7752cdd3561d26f4b3dac56d49efbc1c68231d6db338"
+    }
+   ]
+  },
+  "ror2": {
+   "modVersion": "2026.10.02.1833",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/ror2-2026.10.02.1833/ror2-2026.10.02.1833.zip",
+    "sha256": "5086c23d378a9baee9d09451170431de410f6dba9d32a79ef0700a0a223d392a",
+    "size": 37818
+   },
+   "files": [
+    {
+     "dest": "KoruLinkRoR2.dll",
+     "sha256": "7abbc5fd587e71c8c2564196b05ab29ebc9ba7278965ce2bd32ce245b9a7279d"
+    }
+   ]
+  },
+  "stardew_valley": {
+   "modVersion": "2026.10.02.1858",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/stardew_valley-2026.10.02.1858/stardew_valley-2026.10.02.1858.zip",
+    "sha256": "68365a47091f4d41f523f887ff9968cde354cc0ea6a75c20527405930d96ceb5",
+    "size": 78298
+   },
+   "files": [
+    {
+     "dest": "KoruLinkStardew/KoruLinkStardew.dll",
+     "sha256": "40d2e171b9a29307d244c0d306be4d5f18992b334d93dd79fe41cf0b9fc4526f"
+    },
+    {
+     "dest": "KoruLinkStardew/manifest.json",
+     "sha256": "f009fabe4e8a39e754d25f30b1aa24e7f1a25a68b4331391a80ca9666f5313f3"
+    }
+   ]
+  },
+  "tcg_card_shop": {
+   "modVersion": "2026.10.02.1924",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/tcg_card_shop-2026.10.02.1924/tcg_card_shop-2026.10.02.1924.zip",
+    "sha256": "46567996dff84716746c5a7858e0dbfaf0ee7939c9fa12997e16f134e7e96359",
+    "size": 35347
+   },
+   "files": [
+    {
+     "dest": "KoruLinkTCG/KoruLinkTCG.dll",
+     "sha256": "e91eeec938aa9b5e8d8809a6e2b563401b6de3cd43e40a5476af0c57dbea8b06"
+    }
+   ]
+  },
+  "terraria": {
+   "modVersion": "2026.10.05.0004",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/terraria-2026.10.05.0004/terraria-2026.10.05.0004.zip",
+    "sha256": "714232fca2f2c0d8ddf0090d16e53d1f5f521ac4ba2daac4c2556b42bfcb2827",
+    "size": 97605
+   },
+   "files": [
+    {
+     "dest": "KoruLinkTerraria.tmod",
+     "sha256": "ddda4e02502e668b11689d14eb4ed8ce1d9d71e32dfcd145363382fbb8ee3b6b"
+    }
+   ]
+  },
+  "valheim": {
+   "modVersion": "2026.10.02.1739",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/valheim-2026.10.02.1739/valheim-2026.10.02.1739.zip",
+    "sha256": "599eef21a3178c5f00632fae53ac239632df500e75f500718e5668248793fe32",
+    "size": 47791
+   },
+   "files": [
+    {
+     "dest": "KoruLinkValheim.dll",
+     "sha256": "417815b8800137d9a784b95ffeb83b573800ecc0ae3587306234ecab235e826f"
+    }
+   ]
+  },
+  "worldbox": {
+   "modVersion": "2026.10.06.0545",
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/worldbox-2026.10.06.0545/worldbox-2026.10.06.0545.zip",
+    "sha256": "f36191738f4bac891d25c25d39f587362fb50b36c765c02e7ce57391315ae3cf",
+    "size": 24612
+   },
+   "files": [
+    {
+     "dest": "KoruLinkWorldBox.dll",
+     "sha256": "564e1f18c2f75d7837897a1964e9e06251271d4b1d93e359ebfc396058c6ff34"
+    }
+   ]
+  }
+ },
+ "deps": {
+  "bepinex5_x64": {
+   "nombre": "BepInEx 5.4.23.5 (64 bits)",
+   "version": "5.4.23.5",
+   "licencia": "LGPL-2.1",
+   "fuente": "https://github.com/BepInEx/BepInEx",
+   "url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.5/BepInEx_win_x64_5.4.23.5.zip",
+   "tipo": "zip_al_juego",
+   "raiz": "",
+   "sha256": "82f9878551030f54657792c0740d9d51a09500eeae1fba21106b0c441e6732c4",
+   "size": 639118
+  },
+  "bepinexpack_valheim": {
+   "nombre": "BepInExPack Valheim 5.4.2351",
+   "version": "5.4.2351",
+   "licencia": "LGPL-2.1 (BepInEx); incluye DLL de Unity sin recortar del pack de Thunderstore",
+   "fuente": "https://thunderstore.io/c/valheim/p/denikson/BepInExPack_Valheim/",
+   "url": "https://thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.2351/",
+   "tipo": "zip_al_juego",
+   "raiz": "BepInExPack_Valheim/",
+   "sha256": "bce631497976a93977ceb08e166712e6c31d15244956f89f17df092a9b62e29f",
+   "size": 702924
+  },
+  "smapi": {
+   "nombre": "SMAPI 4.5.2",
+   "version": "4.5.2",
+   "licencia": "LGPL-3.0",
+   "fuente": "https://smapi.io/",
+   "url": "https://github.com/Pathoschild/SMAPI/releases/download/4.5.2/SMAPI-4.5.2-installer.zip",
+   "tipo": "instalador_smapi",
+   "exe": "SMAPI 4.5.2 installer/internal/windows/SMAPI.Installer.exe",
+   "sha256": "dd01ddca7b566bfe0d3b3d2d03833496abc56c53da976241f2ab443f5484acc4",
+   "size": 41889142
+  },
+  "tmodloader": {
+   "nombre": "tModLoader (gratis en Steam)",
+   "version": "steam",
+   "licencia": "MIT",
+   "fuente": "https://store.steampowered.com/app/1281930/tModLoader/",
+   "tipo": "steam",
+   "appid": 1281930
+  },
+  "fabric_loader_26_3": {
+   "nombre": "Fabric Loader 0.19.5 (Minecraft 26.3)",
+   "version": "0.19.5",
+   "licencia": "Apache-2.0",
+   "fuente": "https://fabricmc.net/",
+   "url": "https://meta.fabricmc.net/v2/versions/loader/26.3/0.19.5/profile/json",
+   "tipo": "fabric_perfil",
+   "versionId": "fabric-loader-0.19.5-26.3",
+   "mcVersion": "26.3",
+   "loaderVersion": "0.19.5",
+   "sha256": "b27c9df890db1e323d8d94d33cde078fe7f2ea4ff74eaea205f3ed9ba89248e8",
+   "size": 2778
+  },
+  "fabric_api_26_3": {
+   "nombre": "Fabric API 0.161.0+26.3",
+   "version": "0.161.0+26.3",
+   "licencia": "Apache-2.0",
+   "fuente": "https://modrinth.com/mod/fabric-api",
+   "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bNnaTiuM/fabric-api-0.161.0%2B26.3.jar",
+   "tipo": "jar_a_mods",
+   "archivo": "fabric-api-0.161.0+26.3.jar",
+   "sha256": "86f16178a3cecc887a85a4cfe9a79d92fa7341d8f39b5951a4d6ad800ab657a6",
+   "size": 2620967
+  }
+ }
+}
