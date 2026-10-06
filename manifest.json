@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-06T12:58:39Z",
+ "creado": "2026-10-06T16:21:31Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -218,6 +218,83 @@
    "sha256": "bce631497976a93977ceb08e166712e6c31d15244956f89f17df092a9b62e29f",
    "size": 702924
   },
+  "bepinexpack_repo": {
+   "nombre": "BepInExPack 5.4.2305 (REPO)",
+   "version": "5.4.2305",
+   "licencia": "LGPL-2.1",
+   "fuente": "https://thunderstore.io/c/repo/p/BepInEx/BepInExPack/",
+   "url": "https://thunderstore.io/package/download/BepInEx/BepInExPack/5.4.2305/",
+   "tipo": "zip_al_juego",
+   "raiz": "BepInExPack/",
+   "sha256": "f99b6302b6bdca5bab26f275c261cca448b29bbac34eaa5cbebb42c4246fb244",
+   "size": 669238
+  },
+  "repolib": {
+   "nombre": "REPOLib 4.2.0",
+   "version": "4.2.0",
+   "licencia": "MIT",
+   "fuente": "https://thunderstore.io/c/repo/p/Zehs/REPOLib/",
+   "url": "https://thunderstore.io/package/download/Zehs/REPOLib/4.2.0/",
+   "tipo": "paquete_thunderstore",
+   "carpeta": "Zehs-REPOLib",
+   "sha256": "2d3c1bfa50cce768ee4c36874d2d2c2676dd17697dd19d8655b6456d83d25747",
+   "size": 142136
+  },
+  "bepinexpack_ror2": {
+   "nombre": "BepInExPack 5.4.2122 (Risk of Rain 2)",
+   "version": "5.4.2122",
+   "licencia": "LGPL-2.1",
+   "fuente": "https://thunderstore.io/c/riskofrain2/p/bbepis/BepInExPack/",
+   "url": "https://thunderstore.io/package/download/bbepis/BepInExPack/5.4.2122/",
+   "tipo": "zip_al_juego",
+   "raiz": "BepInExPack/",
+   "sha256": "8a98c3cfa83c920d21c447e0b7606c8a26ab218c35c478394a1fb080efbdb527",
+   "size": 653022
+  },
+  "ror2_bepinexpack": {
+   "nombre": "RoR2BepInExPack 1.43.0",
+   "version": "1.43.0",
+   "licencia": "MIT",
+   "fuente": "https://thunderstore.io/c/riskofrain2/p/RiskofThunder/RoR2BepInExPack/",
+   "url": "https://thunderstore.io/package/download/RiskofThunder/RoR2BepInExPack/1.43.0/",
+   "tipo": "paquete_thunderstore",
+   "carpeta": "RiskofThunder-RoR2BepInExPack",
+   "sha256": "397bc8c4f1b49cf2859f487a17f48fbdbbfbfb00ad39850eab92245627b3e675",
+   "size": 6275067
+  },
+  "ror2_fixplugintypes": {
+   "nombre": "FixPluginTypesSerialization 1.0.4",
+   "version": "1.0.4",
+   "licencia": "MIT",
+   "fuente": "https://thunderstore.io/c/riskofrain2/p/RiskofThunder/FixPluginTypesSerialization/",
+   "url": "https://thunderstore.io/package/download/RiskofThunder/FixPluginTypesSerialization/1.0.4/",
+   "tipo": "paquete_thunderstore",
+   "carpeta": "RiskofThunder-FixPluginTypesSerialization",
+   "sha256": "0e56ae3e323d537249cb104cf5abb66f906625a80de9cfab5e7179e5864a55d2",
+   "size": 109487
+  },
+  "ror2_seekerspatcher": {
+   "nombre": "SeekersPatcher 1.4.1",
+   "version": "1.4.1",
+   "licencia": "ver su página",
+   "fuente": "https://thunderstore.io/c/riskofrain2/p/pseudopulse/SeekersPatcher/",
+   "url": "https://thunderstore.io/package/download/pseudopulse/SeekersPatcher/1.4.1/",
+   "tipo": "paquete_thunderstore",
+   "carpeta": "pseudopulse-SeekersPatcher",
+   "sha256": "6afe0b27539edafb231eb5fb8318b79d483e278852d9c3f3718bcf27f428a9e5",
+   "size": 69753
+  },
+  "ror2_miscfixes": {
+   "nombre": "MiscFixes 1.5.9",
+   "version": "1.5.9",
+   "licencia": "ver su página",
+   "fuente": "https://thunderstore.io/c/riskofrain2/p/score/MiscFixes/",
+   "url": "https://thunderstore.io/package/download/score/MiscFixes/1.5.9/",
+   "tipo": "paquete_thunderstore",
+   "carpeta": "score-MiscFixes",
+   "sha256": "8510f5b5ba2d608e36ed4221ba597a1442d6669ab19c4f5684cd70fb1dc70a2c",
+   "size": 103366
+  },
   "smapi": {
    "nombre": "SMAPI 4.5.2",
    "version": "4.5.2",
@@ -249,8 +326,8 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-10-05T15:06:23+0000",
-    "time": "2026-10-05T15:06:23+0000",
+    "releaseTime": "2026-10-06T15:06:25+0000",
+    "time": "2026-10-06T15:06:25+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {
