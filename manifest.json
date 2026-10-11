@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-06T16:21:31Z",
+ "creado": "2026-10-11T23:48:18Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -71,17 +71,32 @@
    ]
   },
   "minecraft_farmeo": {
-   "modVersion": "1.0.0-mc26.3",
+   "modVersion": "1.1.0-mc26.3",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_farmeo-1.0.0-mc26.3/minecraft_farmeo-1.0.0-mc26.3.zip",
-    "sha256": "18e1a5024abd8a31ea1288a6389d61621891b7206a4c5a1cd6d390a364887460",
-    "size": 292228
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_farmeo-1.1.0-mc26.3/minecraft_farmeo-1.1.0-mc26.3.zip",
+    "sha256": "45b334d8e16c36aec0d4d016bfebc318f37109e9a291065a9c6cb43c40185de5",
+    "size": 329372
    },
    "files": [
     {
-     "dest": "korufarmeo-1.0.0-mc26.3.jar",
-     "sha256": "d33b73ef6a797b337b005c8dcea1e2320b44acda7930ab122813d4cffb610df9"
+     "dest": "korufarmeo-1.1.0-mc26.3.jar",
+     "sha256": "4aaacfec610bf2817be30d0f4980e0dadd36ac9f6dd73ae440f5bb6e990a7b6c"
+    }
+   ]
+  },
+  "peak": {
+   "modVersion": "2026.10.11.1626",
+   "minKoru": 1,
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/peak-2026.10.11.1626/peak-2026.10.11.1626.zip",
+    "sha256": "a77c262a0a388bed268beae68cb6dbdb34b7e268fc8f283b57fe8339030c3bf2",
+    "size": 58332
+   },
+   "files": [
+    {
+     "dest": "KoruLink/KoruLinkPeak.dll",
+     "sha256": "389e3c525391f32ea346c0c215a9c82daca3cc4f270e9548e1232f3947c4c8e3"
     }
    ]
   },
@@ -101,17 +116,32 @@
    ]
   },
   "ror2": {
-   "modVersion": "2026.10.02.1833",
+   "modVersion": "2026.10.11.1309",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/ror2-2026.10.02.1833/ror2-2026.10.02.1833.zip",
-    "sha256": "5086c23d378a9baee9d09451170431de410f6dba9d32a79ef0700a0a223d392a",
-    "size": 37818
+    "url": "https://github.com/soykoru/koru-mods/releases/download/ror2-2026.10.11.1309/ror2-2026.10.11.1309.zip",
+    "sha256": "7c371348441ad0959e0e93e127220dd37dc1ce39af7aead055f8456074758877",
+    "size": 38072
    },
    "files": [
     {
      "dest": "KoruLinkRoR2.dll",
-     "sha256": "7abbc5fd587e71c8c2564196b05ab29ebc9ba7278965ce2bd32ce245b9a7279d"
+     "sha256": "975361fb424fbdb488b794e92c7b70f28768e84d3d23e5772afafdcb1806f4a6"
+    }
+   ]
+  },
+  "silksong": {
+   "modVersion": "2026.10.11.1536",
+   "minKoru": 1,
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/silksong-2026.10.11.1536/silksong-2026.10.11.1536.zip",
+    "sha256": "21818114f8eb8103b6559b75f6baddf865806f95f7d0f8dd3ec56b6b1c04efd6",
+    "size": 74772
+   },
+   "files": [
+    {
+     "dest": "KoruLink/KoruLinkSilksong.dll",
+     "sha256": "76f6c732a429e01d1de28b4e2a3bbd163f21d3323b0efda3c5d6a96ac6721a45"
     }
    ]
   },
@@ -295,6 +325,61 @@
    "sha256": "8510f5b5ba2d608e36ed4221ba597a1442d6669ab19c4f5684cd70fb1dc70a2c",
    "size": 103366
   },
+  "bepinexpack_silksong": {
+   "nombre": "BepInExPack Silksong 1.0.3",
+   "version": "1.0.3",
+   "licencia": "LGPL-2.1 (BepInEx)",
+   "fuente": "https://thunderstore.io/c/hollow-knight-silksong/p/silksong_modding/BepInExPack_Silksong/",
+   "url": "https://thunderstore.io/package/download/silksong_modding/BepInExPack_Silksong/1.0.3/",
+   "tipo": "zip_al_juego",
+   "raiz": "BepInExPack/",
+   "sha256": "a343275c6953ff12233e059d6d406fbdb9faf795fa695f12d5e7ad5c70fb6da7",
+   "size": 694940
+  },
+  "silksong_monodetour": {
+   "nombre": "MonoDetour 0.7.16",
+   "version": "0.7.16",
+   "licencia": "MIT",
+   "fuente": "https://thunderstore.io/c/hollow-knight-silksong/p/MonoDetour/MonoDetour/",
+   "url": "https://thunderstore.io/package/download/MonoDetour/MonoDetour/0.7.16/",
+   "tipo": "paquete_thunderstore",
+   "carpeta": "MonoDetour-MonoDetour",
+   "sha256": "d5e32dc8bd8ed9afad83573282edbb7e96839376336b2f0328820441985b2cab",
+   "size": 140385
+  },
+  "silksong_monodetour_bepinex5": {
+   "nombre": "MonoDetour para BepInEx 5 0.7.16",
+   "version": "0.7.16",
+   "licencia": "MIT",
+   "fuente": "https://thunderstore.io/c/hollow-knight-silksong/p/MonoDetour/MonoDetour_BepInEx_5/",
+   "url": "https://thunderstore.io/package/download/MonoDetour/MonoDetour_BepInEx_5/0.7.16/",
+   "tipo": "paquete_thunderstore",
+   "carpeta": "MonoDetour-MonoDetour_BepInEx_5",
+   "sha256": "bbfd2eab63c8fb36e61258b98ab092738aaf426f80490ac4db017bdbc849283c",
+   "size": 44409
+  },
+  "silksong_i18n": {
+   "nombre": "Silksong I18N 1.1.1",
+   "version": "1.1.1",
+   "licencia": "EUPL-1.2",
+   "fuente": "https://thunderstore.io/c/hollow-knight-silksong/p/silksong_modding/I18N/",
+   "url": "https://thunderstore.io/package/download/silksong_modding/I18N/1.1.1/",
+   "tipo": "paquete_thunderstore",
+   "carpeta": "silksong_modding-I18N",
+   "sha256": "b189681dda159edd8d8cabd5a71bc39ef165efea6f120f8b150a7f5898ce9e20",
+   "size": 25036
+  },
+  "silksong_assethelper": {
+   "nombre": "Silksong AssetHelper 1.3.2",
+   "version": "1.3.2",
+   "licencia": "EUPL-1.2",
+   "fuente": "https://thunderstore.io/c/hollow-knight-silksong/p/silksong_modding/AssetHelper/",
+   "url": "https://thunderstore.io/package/download/silksong_modding/AssetHelper/1.3.2/",
+   "tipo": "paquete_thunderstore",
+   "carpeta": "silksong_modding-AssetHelper",
+   "sha256": "01ddca4d9b29502879055380f754123a14fdc1e51f70634dbade0c39d7fd4d7e",
+   "size": 326166
+  },
   "smapi": {
    "nombre": "SMAPI 4.5.2",
    "version": "4.5.2",
@@ -326,8 +411,8 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-10-06T15:06:25+0000",
-    "time": "2026-10-06T15:06:25+0000",
+    "releaseTime": "2026-10-11T15:06:29+0000",
+    "time": "2026-10-11T15:06:29+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {

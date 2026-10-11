@@ -14,6 +14,11 @@ No se alojan aquí: la app las baja de la página oficial de cada proyecto, con 
 - **FixPluginTypesSerialization 1.0.4** — MIT — https://thunderstore.io/c/riskofrain2/p/RiskofThunder/FixPluginTypesSerialization/
 - **SeekersPatcher 1.4.1** — ver su página — https://thunderstore.io/c/riskofrain2/p/pseudopulse/SeekersPatcher/
 - **MiscFixes 1.5.9** — ver su página — https://thunderstore.io/c/riskofrain2/p/score/MiscFixes/
+- **BepInExPack Silksong 1.0.3** — LGPL-2.1 (BepInEx) — https://thunderstore.io/c/hollow-knight-silksong/p/silksong_modding/BepInExPack_Silksong/
+- **MonoDetour 0.7.16** — MIT — https://thunderstore.io/c/hollow-knight-silksong/p/MonoDetour/MonoDetour/
+- **MonoDetour para BepInEx 5 0.7.16** — MIT — https://thunderstore.io/c/hollow-knight-silksong/p/MonoDetour/MonoDetour_BepInEx_5/
+- **Silksong I18N 1.1.1** — EUPL-1.2 — https://thunderstore.io/c/hollow-knight-silksong/p/silksong_modding/I18N/
+- **Silksong AssetHelper 1.3.2** — EUPL-1.2 — https://thunderstore.io/c/hollow-knight-silksong/p/silksong_modding/AssetHelper/
 - **SMAPI 4.5.2** — LGPL-3.0 — https://smapi.io/
 - **tModLoader (gratis en Steam)** — MIT — https://store.steampowered.com/app/1281930/tModLoader/
 - **Fabric Loader 0.19.5 (Minecraft 26.3)** — Apache-2.0 — https://fabricmc.net/
