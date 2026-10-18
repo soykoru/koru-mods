@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-18T07:52:18Z",
+ "creado": "2026-10-18T08:59:05Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -71,32 +71,32 @@
    ]
   },
   "minecraft_coliseo": {
-   "modVersion": "0.1.7-mc26.3",
+   "modVersion": "0.1.8-mc26.3",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_coliseo-0.1.7-mc26.3/minecraft_coliseo-0.1.7-mc26.3.zip",
-    "sha256": "5cb244dbe4bd4a180501a6f14376996eea86ea2c6e24c8243e8e2fc030ed06ed",
-    "size": 300803
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_coliseo-0.1.8-mc26.3/minecraft_coliseo-0.1.8-mc26.3.zip",
+    "sha256": "147ac2d283b3b131c8b293078ae0b80c5181b65c1ffd824ecdcb26de11ca7107",
+    "size": 234836
    },
    "files": [
     {
-     "dest": "korucoliseo-0.1.7-mc26.3.jar",
-     "sha256": "02139f91f5b9438a073b6b3e29edb1297e324ddf68d7b2ece60813988c48037f"
+     "dest": "korucoliseo-0.1.8-mc26.3.jar",
+     "sha256": "faaf65e5a8d713f70aedecbdcdaf65bd1142bfd500edfb9f58e875f6e45b31d3"
     }
    ]
   },
   "minecraft_farmeo": {
-   "modVersion": "1.1.0-mc26.3",
+   "modVersion": "1.1.1-mc26.3",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_farmeo-1.1.0-mc26.3/minecraft_farmeo-1.1.0-mc26.3.zip",
-    "sha256": "45b334d8e16c36aec0d4d016bfebc318f37109e9a291065a9c6cb43c40185de5",
-    "size": 329372
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_farmeo-1.1.1-mc26.3/minecraft_farmeo-1.1.1-mc26.3.zip",
+    "sha256": "edbce9afd81da3f5c33a69e8912bcb57bd326b01fe7c8d85a47f169fffdacdef",
+    "size": 235036
    },
    "files": [
     {
-     "dest": "korufarmeo-1.1.0-mc26.3.jar",
-     "sha256": "4aaacfec610bf2817be30d0f4980e0dadd36ac9f6dd73ae440f5bb6e990a7b6c"
+     "dest": "korufarmeo-1.1.1-mc26.3.jar",
+     "sha256": "0bb1fe92d1e5fbc2cc23ba7a15a2b4aa0c33c1b5def949a7bea54f402d0d21f7"
     }
    ]
   },
