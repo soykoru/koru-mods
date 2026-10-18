@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-18T03:32:19Z",
+ "creado": "2026-10-18T05:40:06Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -71,17 +71,17 @@
    ]
   },
   "minecraft_coliseo": {
-   "modVersion": "0.1.5-mc26.3",
+   "modVersion": "0.1.7-mc26.3",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_coliseo-0.1.5-mc26.3/minecraft_coliseo-0.1.5-mc26.3.zip",
-    "sha256": "dd9cf8e47ab923c27a2543fdd4c1159743be677355793255cd00bf677167a6b2",
-    "size": 300303
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_coliseo-0.1.7-mc26.3/minecraft_coliseo-0.1.7-mc26.3.zip",
+    "sha256": "5cb244dbe4bd4a180501a6f14376996eea86ea2c6e24c8243e8e2fc030ed06ed",
+    "size": 300803
    },
    "files": [
     {
-     "dest": "korucoliseo-0.1.5-mc26.3.jar",
-     "sha256": "fb2a7fd47be386f86ebc165234df87fed82cab265e70f2e30269b56850a78c4d"
+     "dest": "korucoliseo-0.1.7-mc26.3.jar",
+     "sha256": "02139f91f5b9438a073b6b3e29edb1297e324ddf68d7b2ece60813988c48037f"
     }
    ]
   },
