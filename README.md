@@ -23,3 +23,4 @@ No se alojan aquí: la app las baja de la página oficial de cada proyecto, con 
 - **tModLoader (gratis en Steam)** — MIT — https://store.steampowered.com/app/1281930/tModLoader/
 - **Fabric Loader 0.19.5 (Minecraft 26.3)** — Apache-2.0 — https://fabricmc.net/
 - **Fabric API 0.161.0+26.3** — Apache-2.0 — https://modrinth.com/mod/fabric-api
+- **Fabric API 0.163.0+26.3** — Apache-2.0 — https://modrinth.com/mod/fabric-api

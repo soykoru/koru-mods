@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-11T23:48:18Z",
+ "creado": "2026-10-18T03:32:19Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -67,6 +67,21 @@
     {
      "dest": "KoruLinkHytale.jar",
      "sha256": "b9f55604c98fbd538c7eb96f737875bab259c8a197e1cdf9843e2209f0e1a7a0"
+    }
+   ]
+  },
+  "minecraft_coliseo": {
+   "modVersion": "0.1.5-mc26.3",
+   "minKoru": 1,
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_coliseo-0.1.5-mc26.3/minecraft_coliseo-0.1.5-mc26.3.zip",
+    "sha256": "dd9cf8e47ab923c27a2543fdd4c1159743be677355793255cd00bf677167a6b2",
+    "size": 300303
+   },
+   "files": [
+    {
+     "dest": "korucoliseo-0.1.5-mc26.3.jar",
+     "sha256": "fb2a7fd47be386f86ebc165234df87fed82cab265e70f2e30269b56850a78c4d"
     }
    ]
   },
@@ -411,8 +426,8 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-10-11T15:06:29+0000",
-    "time": "2026-10-11T15:06:29+0000",
+    "releaseTime": "2026-10-17T15:06:33+0000",
+    "time": "2026-10-17T15:06:33+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {
@@ -493,6 +508,17 @@
    "archivo": "fabric-api-0.161.0+26.3.jar",
    "sha256": "86f16178a3cecc887a85a4cfe9a79d92fa7341d8f39b5951a4d6ad800ab657a6",
    "size": 2620967
+  },
+  "fabric_api_26_3_0163": {
+   "nombre": "Fabric API 0.163.0+26.3",
+   "version": "0.163.0+26.3",
+   "licencia": "Apache-2.0",
+   "fuente": "https://modrinth.com/mod/fabric-api",
+   "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/bq3SsNGk/fabric-api-0.163.0%2B26.3.jar",
+   "tipo": "jar_a_mods",
+   "archivo": "fabric-api-0.163.0+26.3.jar",
+   "sha256": "4969f5197ebedaf681cc913e4258c8bd17ccb98029db52a29e9b48e998267a2d",
+   "size": 1774707
   }
  }
 }
