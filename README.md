@@ -24,3 +24,6 @@ No se alojan aquí: la app las baja de la página oficial de cada proyecto, con 
 - **Fabric Loader 0.19.5 (Minecraft 26.3)** — Apache-2.0 — https://fabricmc.net/
 - **Fabric API 0.161.0+26.3** — Apache-2.0 — https://modrinth.com/mod/fabric-api
 - **Fabric API 0.163.0+26.3** — Apache-2.0 — https://modrinth.com/mod/fabric-api
+- **Mutant Monsters 26.3.1** — AGPL-3.0 — https://modrinth.com/mod/mutant-monsters
+- **Puzzles Lib 26.3.15** — MPL-2.0 — https://modrinth.com/mod/puzzles-lib
+- **Forge Config API Port 26.3.1** — MPL-2.0 — https://modrinth.com/mod/forge-config-api-port

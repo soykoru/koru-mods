@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-18T05:40:06Z",
+ "creado": "2026-10-18T07:52:18Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -519,6 +519,39 @@
    "archivo": "fabric-api-0.163.0+26.3.jar",
    "sha256": "4969f5197ebedaf681cc913e4258c8bd17ccb98029db52a29e9b48e998267a2d",
    "size": 1774707
+  },
+  "mutantmonsters_26_3": {
+   "nombre": "Mutant Monsters 26.3.1",
+   "version": "26.3.1",
+   "licencia": "AGPL-3.0",
+   "fuente": "https://modrinth.com/mod/mutant-monsters",
+   "url": "https://cdn.modrinth.com/data/derP0ten/versions/XNliGY5t/mutantmonsters-v26.3.1-mc26.3.x%2Bfabric.jar",
+   "tipo": "jar_a_mods",
+   "archivo": "mutantmonsters-v26.3.1-mc26.3.x+fabric.jar",
+   "sha256": "ae7d2e93376c24bc5f57a1ad7e0ea882179e9e203129134b46a451c8bdc18185",
+   "size": 1369167
+  },
+  "puzzleslib_26_3": {
+   "nombre": "Puzzles Lib 26.3.15",
+   "version": "26.3.15",
+   "licencia": "MPL-2.0",
+   "fuente": "https://modrinth.com/mod/puzzles-lib",
+   "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/68hLXNWE/puzzleslib-v26.3.15-mc26.3.x%2Bfabric.jar",
+   "tipo": "jar_a_mods",
+   "archivo": "puzzleslib-v26.3.15-mc26.3.x+fabric.jar",
+   "sha256": "dc79d1970ebcf3ab017b4519656bf3200066b93e821ca4f591cff5e07c9202c1",
+   "size": 1093312
+  },
+  "forgeconfigapiport_26_3": {
+   "nombre": "Forge Config API Port 26.3.1",
+   "version": "26.3.1",
+   "licencia": "MPL-2.0",
+   "fuente": "https://modrinth.com/mod/forge-config-api-port",
+   "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/JpKvrr9J/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+   "tipo": "jar_a_mods",
+   "archivo": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+   "sha256": "95cc2bd7a943f910a54baf2f65acde301dcfb3d8aeff2c989c04c416d5a4a1cd",
+   "size": 609574
   }
  }
 }
