@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-18T08:59:05Z",
+ "creado": "2026-10-19T03:13:19Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -86,17 +86,17 @@
    ]
   },
   "minecraft_farmeo": {
-   "modVersion": "1.1.1-mc26.3",
+   "modVersion": "1.2.1-mc26.3",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_farmeo-1.1.1-mc26.3/minecraft_farmeo-1.1.1-mc26.3.zip",
-    "sha256": "edbce9afd81da3f5c33a69e8912bcb57bd326b01fe7c8d85a47f169fffdacdef",
-    "size": 235036
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_farmeo-1.2.1-mc26.3/minecraft_farmeo-1.2.1-mc26.3.zip",
+    "sha256": "5b81216954c5f3ca5e7b7f7e5571704ce1bd6e6730cac434575318363a658456",
+    "size": 254143
    },
    "files": [
     {
-     "dest": "korufarmeo-1.1.1-mc26.3.jar",
-     "sha256": "0bb1fe92d1e5fbc2cc23ba7a15a2b4aa0c33c1b5def949a7bea54f402d0d21f7"
+     "dest": "korufarmeo-1.2.1-mc26.3.jar",
+     "sha256": "b75df5273addba30a530ca05db40f539689bdbbaf91819e86a222c28881aa864"
     }
    ]
   },
@@ -426,8 +426,8 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-10-17T15:06:33+0000",
-    "time": "2026-10-17T15:06:33+0000",
+    "releaseTime": "2026-10-18T15:06:33+0000",
+    "time": "2026-10-18T15:06:33+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {
