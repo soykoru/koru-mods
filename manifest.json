@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-22T19:02:13Z",
+ "creado": "2026-10-22T22:55:43Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -86,17 +86,17 @@
    ]
   },
   "minecraft_carrera": {
-   "modVersion": "0.1.0-mc26.3",
+   "modVersion": "0.1.1-mc26.3",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_carrera-0.1.0-mc26.3/minecraft_carrera-0.1.0-mc26.3.zip",
-    "sha256": "e6a0552fe1b3aeab7eae40b48cea96be726884621b82d05413cc8d0c469314b6",
-    "size": 1833775
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_carrera-0.1.1-mc26.3/minecraft_carrera-0.1.1-mc26.3.zip",
+    "sha256": "891d80ee53693a40ff12f8220d2fe4399044b727d04cf4810c75b1fda24e5178",
+    "size": 1834825
    },
    "files": [
     {
-     "dest": "koruautos-0.1.0-mc26.3.jar",
-     "sha256": "779d84a5d19412beb1ba2f0d79c9ec45dd48c83728442b69acf09bfe0bf9c389"
+     "dest": "koruautos-0.1.1-mc26.3.jar",
+     "sha256": "cf7f23dcb08ae60677d04e510ffdd5ed7d0a566bcc251bfbc0cec9ff26bc8f0a"
     }
    ]
   },
