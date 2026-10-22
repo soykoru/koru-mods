@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-21T03:08:45Z",
+ "creado": "2026-10-22T01:06:00Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -70,6 +70,21 @@
     }
    ]
   },
+  "minecraft_armada": {
+   "modVersion": "0.1.1-mc26.3",
+   "minKoru": 1,
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_armada-0.1.1-mc26.3/minecraft_armada-0.1.1-mc26.3.zip",
+    "sha256": "ac493e7c6c2deab816c61d7d389d92e81343138a57204d5d2c5650dcd7554ae3",
+    "size": 178071
+   },
+   "files": [
+    {
+     "dest": "koruarmada-0.1.1-mc26.3.jar",
+     "sha256": "7e8c8e942d4eb22d5aabc77b79fc46d6ca1176506028c4496c535201e9dae068"
+    }
+   ]
+  },
   "minecraft_coliseo": {
    "modVersion": "0.1.11-mc26.3",
    "minKoru": 1,
@@ -82,6 +97,36 @@
     {
      "dest": "korucoliseo-0.1.11-mc26.3.jar",
      "sha256": "6b30d67f49be733aa60b5523eeb9f17ba220e76c685b9dffa26424289cbf1066"
+    }
+   ]
+  },
+  "minecraft_criaturas": {
+   "modVersion": "0.2.0-mc26.3",
+   "minKoru": 1,
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_criaturas-0.2.0-mc26.3/minecraft_criaturas-0.2.0-mc26.3.zip",
+    "sha256": "34f0a3bece8fce70dd94da0c7c88aa2affb65a20dfdea991f6747f8ba2802c37",
+    "size": 7916787
+   },
+   "files": [
+    {
+     "dest": "korucriaturas-0.2.0-mc26.3.jar",
+     "sha256": "d714520557cd4a6be85fdf8daa728e3819ed16e2eb3dca74316766b4ab399812"
+    }
+   ]
+  },
+  "minecraft_escuadron": {
+   "modVersion": "0.1.1-mc26.3",
+   "minKoru": 1,
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_escuadron-0.1.1-mc26.3/minecraft_escuadron-0.1.1-mc26.3.zip",
+    "sha256": "f5d9d4a7ba5eabeb78c948de9d0c76c8862753ce36324dd95176a724b4ba9dd9",
+    "size": 182177
+   },
+   "files": [
+    {
+     "dest": "koruescuadron-0.1.1-mc26.3.jar",
+     "sha256": "4ccca5f953b940966c1f2c3d9205856aa580f58c462b6098a4737b95bf034cad"
     }
    ]
   },
@@ -426,8 +471,8 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-10-20T15:06:34+0000",
-    "time": "2026-10-20T15:06:34+0000",
+    "releaseTime": "2026-10-21T15:06:36+0000",
+    "time": "2026-10-21T15:06:36+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {
