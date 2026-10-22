@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-22T01:06:00Z",
+ "creado": "2026-10-22T18:06:01Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -86,17 +86,17 @@
    ]
   },
   "minecraft_coliseo": {
-   "modVersion": "0.1.11-mc26.3",
+   "modVersion": "0.1.12-mc26.3",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_coliseo-0.1.11-mc26.3/minecraft_coliseo-0.1.11-mc26.3.zip",
-    "sha256": "e5ba55d6e84af4c025cdb4dff02755981649ed3f21751593df739b97609864f2",
-    "size": 246010
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_coliseo-0.1.12-mc26.3/minecraft_coliseo-0.1.12-mc26.3.zip",
+    "sha256": "4f55e5a8e793385f7dbf6eea50c13532267bf3f395b3e4119518ad55bdec65ea",
+    "size": 246588
    },
    "files": [
     {
-     "dest": "korucoliseo-0.1.11-mc26.3.jar",
-     "sha256": "6b30d67f49be733aa60b5523eeb9f17ba220e76c685b9dffa26424289cbf1066"
+     "dest": "korucoliseo-0.1.12-mc26.3.jar",
+     "sha256": "a74de80a5402383f740162598996dbf26a15f0595a6a84f70adc635cf8fccd0a"
     }
    ]
   },
@@ -471,8 +471,8 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-10-21T15:06:36+0000",
-    "time": "2026-10-21T15:06:36+0000",
+    "releaseTime": "2026-10-22T15:06:37+0000",
+    "time": "2026-10-22T15:06:37+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {
