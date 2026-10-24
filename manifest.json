@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-24T07:08:40Z",
+ "creado": "2026-10-24T23:23:59Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -176,17 +176,17 @@
    ]
   },
   "minecraft_zombis": {
-   "modVersion": "0.1.1-mc1.21.1",
+   "modVersion": "0.1.5-mc1.21.1",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_zombis-0.1.1-mc1.21.1/minecraft_zombis-0.1.1-mc1.21.1.zip",
-    "sha256": "527cd8f3e50ab38f0a9267d25b830237e3a0f427f29fabd98af7bbd650c7735d",
-    "size": 507745
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_zombis-0.1.5-mc1.21.1/minecraft_zombis-0.1.5-mc1.21.1.zip",
+    "sha256": "3f3ef67c85bb7bb7c14a7e175fa887e6f19cfcf79df811cf41a63582267389aa",
+    "size": 2595681
    },
    "files": [
     {
-     "dest": "koruzombis-0.1.1-mc1.21.1.jar",
-     "sha256": "e4f4297c193ee83503231cb684055b89be79ce17018858650e1b17efe6339b5a"
+     "dest": "koruzombis-0.1.5-mc1.21.1.jar",
+     "sha256": "0af35dca65e7929713c90effff929c8ad4eca5344b99c0ca96b16a10810c2f35"
     }
    ]
   },
@@ -516,8 +516,8 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-10-23T15:06:39+0000",
-    "time": "2026-10-23T15:06:39+0000",
+    "releaseTime": "2026-10-24T15:06:40+0000",
+    "time": "2026-10-24T15:06:40+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {
