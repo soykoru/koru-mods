@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-24T03:12:18Z",
+ "creado": "2026-10-24T07:08:40Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -161,32 +161,32 @@
    ]
   },
   "minecraft_miniwar": {
-   "modVersion": "0.1.1-mc26.3",
+   "modVersion": "0.1.4-mc26.3",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_miniwar-0.1.1-mc26.3/minecraft_miniwar-0.1.1-mc26.3.zip",
-    "sha256": "5a551483a1524f3db7ada04cde58a791ae5599692ffc28759b13cc7da99d2e74",
-    "size": 1428762
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_miniwar-0.1.4-mc26.3/minecraft_miniwar-0.1.4-mc26.3.zip",
+    "sha256": "b2402066fb24f2e0b7223091112c596d25ca1ae50751adfd5f1a1124ebcdaf84",
+    "size": 1432855
    },
    "files": [
     {
-     "dest": "koruminiwar-0.1.1-mc26.3.jar",
-     "sha256": "8e019beb0455a249b05f315976fc77e2e849a66ea2209598d98bacb21a95d498"
+     "dest": "koruminiwar-0.1.4-mc26.3.jar",
+     "sha256": "ad70da9c3031be49c3bfaadea413098416d5592f855a76ad33fe555bc8f90358"
     }
    ]
   },
   "minecraft_zombis": {
-   "modVersion": "0.1.0-mc1.21.1",
+   "modVersion": "0.1.1-mc1.21.1",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_zombis-0.1.0-mc1.21.1/minecraft_zombis-0.1.0-mc1.21.1.zip",
-    "sha256": "73199352b3cd32ae3236cafebb108abc586c4de3ff908ed9e112718d681eda60",
-    "size": 487324
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_zombis-0.1.1-mc1.21.1/minecraft_zombis-0.1.1-mc1.21.1.zip",
+    "sha256": "527cd8f3e50ab38f0a9267d25b830237e3a0f427f29fabd98af7bbd650c7735d",
+    "size": 507745
    },
    "files": [
     {
-     "dest": "koruzombis-0.1.0-mc1.21.1.jar",
-     "sha256": "49a145b3b631bb180ab7b9b26de1ef1adc8a7b7b9b5fafbd6652c7881fb4b3c4"
+     "dest": "koruzombis-0.1.1-mc1.21.1.jar",
+     "sha256": "e4f4297c193ee83503231cb684055b89be79ce17018858650e1b17efe6339b5a"
     }
    ]
   },
