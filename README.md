@@ -27,3 +27,7 @@ No se alojan aquí: la app las baja de la página oficial de cada proyecto, con 
 - **Mutant Monsters 26.3.1** — AGPL-3.0 — https://modrinth.com/mod/mutant-monsters
 - **Puzzles Lib 26.3.15** — MPL-2.0 — https://modrinth.com/mod/puzzles-lib
 - **Forge Config API Port 26.3.1** — MPL-2.0 — https://modrinth.com/mod/forge-config-api-port
+- **NeoForge 21.1.264 (Minecraft 1.21.1)** — LGPL-2.1 — https://neoforged.net/
+- **TaCZ 1.1.8 (armas; port de NeoForge 1.21.1)** — GPL-3.0 (código) / CC BY-NC-ND 4.0 (modelos y sonidos) — https://modrinth.com/mod/tacz-1.21.1
+- **Mutant Monsters 21.1.1 (NeoForge 1.21.1)** — AGPL-3.0 — https://modrinth.com/mod/mutant-monsters
+- **Puzzles Lib 21.1.65 (NeoForge 1.21.1)** — MPL-2.0 — https://modrinth.com/mod/puzzles-lib

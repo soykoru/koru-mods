@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-22T22:55:43Z",
+ "creado": "2026-10-24T03:12:18Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -157,6 +157,36 @@
     {
      "dest": "korufarmeo-1.2.1-mc26.3.jar",
      "sha256": "b75df5273addba30a530ca05db40f539689bdbbaf91819e86a222c28881aa864"
+    }
+   ]
+  },
+  "minecraft_miniwar": {
+   "modVersion": "0.1.1-mc26.3",
+   "minKoru": 1,
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_miniwar-0.1.1-mc26.3/minecraft_miniwar-0.1.1-mc26.3.zip",
+    "sha256": "5a551483a1524f3db7ada04cde58a791ae5599692ffc28759b13cc7da99d2e74",
+    "size": 1428762
+   },
+   "files": [
+    {
+     "dest": "koruminiwar-0.1.1-mc26.3.jar",
+     "sha256": "8e019beb0455a249b05f315976fc77e2e849a66ea2209598d98bacb21a95d498"
+    }
+   ]
+  },
+  "minecraft_zombis": {
+   "modVersion": "0.1.0-mc1.21.1",
+   "minKoru": 1,
+   "zip": {
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_zombis-0.1.0-mc1.21.1/minecraft_zombis-0.1.0-mc1.21.1.zip",
+    "sha256": "73199352b3cd32ae3236cafebb108abc586c4de3ff908ed9e112718d681eda60",
+    "size": 487324
+   },
+   "files": [
+    {
+     "dest": "koruzombis-0.1.0-mc1.21.1.jar",
+     "sha256": "49a145b3b631bb180ab7b9b26de1ef1adc8a7b7b9b5fafbd6652c7881fb4b3c4"
     }
    ]
   },
@@ -486,8 +516,8 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-10-22T15:06:37+0000",
-    "time": "2026-10-22T15:06:37+0000",
+    "releaseTime": "2026-10-23T15:06:39+0000",
+    "time": "2026-10-23T15:06:39+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {
@@ -612,6 +642,52 @@
    "archivo": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
    "sha256": "95cc2bd7a943f910a54baf2f65acde301dcfb3d8aeff2c989c04c416d5a4a1cd",
    "size": 609574
+  },
+  "neoforge_21_1_264": {
+   "nombre": "NeoForge 21.1.264 (Minecraft 1.21.1)",
+   "version": "21.1.264",
+   "licencia": "LGPL-2.1",
+   "fuente": "https://neoforged.net/",
+   "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.264/neoforge-21.1.264-installer.jar",
+   "tipo": "neoforge_instalador",
+   "archivo": "neoforge-21.1.264-installer.jar",
+   "versionNeoForge": "21.1.264",
+   "mcVersion": "1.21.1",
+   "sha256": "d7c035dd5436a7c524dfbad6df191b0ef34179fd3edfee9dc99262af3b80239b",
+   "size": 6992411
+  },
+  "tacz_1_21_1": {
+   "nombre": "TaCZ 1.1.8 (armas; port de NeoForge 1.21.1)",
+   "version": "1.1.8-hotfix-r7",
+   "licencia": "GPL-3.0 (código) / CC BY-NC-ND 4.0 (modelos y sonidos)",
+   "fuente": "https://modrinth.com/mod/tacz-1.21.1",
+   "url": "https://cdn.modrinth.com/data/OypNE65K/versions/62q6mB5Q/tacz-neoforge-1.21.1-1.1.8-hotfix-r7.jar",
+   "tipo": "jar_a_mods",
+   "archivo": "tacz-neoforge-1.21.1-1.1.8-hotfix-r7.jar",
+   "sha256": "fa3a09f15265a4065a566960a8deab315f6c601a5f9a542840b362d455dd5470",
+   "size": 57247579
+  },
+  "mutantmonsters_1_21_1": {
+   "nombre": "Mutant Monsters 21.1.1 (NeoForge 1.21.1)",
+   "version": "21.1.1",
+   "licencia": "AGPL-3.0",
+   "fuente": "https://modrinth.com/mod/mutant-monsters",
+   "url": "https://cdn.modrinth.com/data/derP0ten/versions/dauEcrnZ/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+   "tipo": "jar_a_mods",
+   "archivo": "MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+   "sha256": "1e20340a6642dcd6e43399292825f8cd84a079e0b917e36cf7341e787b626a4f",
+   "size": 1346730
+  },
+  "puzzleslib_1_21_1": {
+   "nombre": "Puzzles Lib 21.1.65 (NeoForge 1.21.1)",
+   "version": "21.1.65",
+   "licencia": "MPL-2.0",
+   "fuente": "https://modrinth.com/mod/puzzles-lib",
+   "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/kiX1lfse/puzzleslib-v21.1.65-mc1.21.1%2Bneoforge.jar",
+   "tipo": "jar_a_mods",
+   "archivo": "puzzleslib-v21.1.65-mc1.21.1+neoforge.jar",
+   "sha256": "5317fe131954accbe884b079f75713d6f9024b291085314d6c23b3a697fc2771",
+   "size": 1451117
   }
  }
 }
