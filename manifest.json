@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-10-26T05:50:23Z",
+ "creado": "2026-10-26T06:50:43Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.10.02.1848",
@@ -176,17 +176,17 @@
    ]
   },
   "minecraft_zombis": {
-   "modVersion": "0.1.7-mc1.21.1",
+   "modVersion": "0.1.8-mc1.21.1",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_zombis-0.1.7-mc1.21.1/minecraft_zombis-0.1.7-mc1.21.1.zip",
-    "sha256": "e2a280b1ff8a5fa98e8142ff70b66c2d724f2d1ca286b057a29cbf83f4a20724",
-    "size": 2737094
+    "url": "https://github.com/soykoru/koru-mods/releases/download/minecraft_zombis-0.1.8-mc1.21.1/minecraft_zombis-0.1.8-mc1.21.1.zip",
+    "sha256": "b969f9b152c2cc8e8ac8a9fa319a837cfd7d4a50fac97bf0d58c52a4c2513e42",
+    "size": 2742435
    },
    "files": [
     {
-     "dest": "koruzombis-0.1.7-mc1.21.1.jar",
-     "sha256": "aa5247d0a2ad00ef73dff3f470354ed76257ecab6ee16604047708dfde16fb8e"
+     "dest": "koruzombis-0.1.8-mc1.21.1.jar",
+     "sha256": "244ad1174970e1b8af65f0b10652a595342edce90c83b27195df6c85d4186669"
     }
    ]
   },
