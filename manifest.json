@@ -1,19 +1,19 @@
 {
  "schema": 1,
- "creado": "2026-10-28T22:32:52Z",
+ "creado": "2026-11-05T05:01:53Z",
  "mods": {
   "7_days_to_die": {
-   "modVersion": "2026.10.02.1848",
+   "modVersion": "2026.11.04.2308",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/7_days_to_die-2026.10.02.1848/7_days_to_die-2026.10.02.1848.zip",
-    "sha256": "86aa63da76886b8d8db51f159db769501a36aba6aade912bad4214bcd4a46296",
-    "size": 40195
+    "url": "https://github.com/soykoru/koru-mods/releases/download/7_days_to_die-2026.11.04.2308/7_days_to_die-2026.11.04.2308.zip",
+    "sha256": "e9d08c2fddbb9cd477d9efa216fbe85cccf0153d6a0db23778ff3b54f0f148fb",
+    "size": 40286
    },
    "files": [
     {
      "dest": "KoruLink7DTD/KoruLink7DTD.dll",
-     "sha256": "7e122f652d8e38ce45d8f8f0967df875ab41e9eff35bdbc74546db8bf3e76621"
+     "sha256": "fe9dc1c38ddb48aa24acbfd9e1e966c09d8810121f70ab6d3ab48e407af078b9"
     },
     {
      "dest": "KoruLink7DTD/ModInfo.xml",
@@ -22,17 +22,17 @@
    ]
   },
   "core_keeper": {
-   "modVersion": "2026.10.02.1910",
+   "modVersion": "2026.11.04.2308",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/core_keeper-2026.10.02.1910/core_keeper-2026.10.02.1910.zip",
-    "sha256": "bc9e4c94c07e5a2fb2d75e59b0eaafea6aacc8642d249e9e16ab4645d3fbd641",
-    "size": 44765
+    "url": "https://github.com/soykoru/koru-mods/releases/download/core_keeper-2026.11.04.2308/core_keeper-2026.11.04.2308.zip",
+    "sha256": "043181da9e3617e58c2a3d2f869ce3413688aab6ef502ed72f11a1fb237dde22",
+    "size": 44856
    },
    "files": [
     {
      "dest": "KoruLinkCoreKeeper/KoruLinkCoreKeeper.dll",
-     "sha256": "c10d6fe62b93490d07b3e21bd62b07885d8730a28e207a7c873ae7426bc2ca3f"
+     "sha256": "712fa5a82e3460c67d4a60a5d0379fe4b1813e47bcd1bfee4abaef4ef8a50ca7"
     },
     {
      "dest": "KoruLinkCoreKeeper/ModManifest.json",
@@ -41,17 +41,21 @@
    ]
   },
   "eldenring": {
-   "modVersion": "2026.10.02.1631",
+   "modVersion": "2026.11.04.2342",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/eldenring-2026.10.02.1631/eldenring-2026.10.02.1631.zip",
-    "sha256": "15fa9f3e66d14b3a20084b81d4675850c9630e9ccb454dba08903b8aba740da9",
-    "size": 284186
+    "url": "https://github.com/soykoru/koru-mods/releases/download/eldenring-2026.11.04.2342/eldenring-2026.11.04.2342.zip",
+    "sha256": "2da8a06b46b7b84b373936003663da11505911c9ff2f574034bc14cb2abda721",
+    "size": 288575
    },
    "files": [
     {
      "dest": "dinput8.dll",
-     "sha256": "7b6b06d8aeac838d04dc19d14739e16a12d59c92f5133daab3f849f952d03a53"
+     "sha256": "14dee898aeb0d7cd206a5a7620fb232875eccc1cb081f3571176a853baf26f69"
+    },
+    {
+     "dest": "KoruLinkEldenRing_THIRD_PARTY_NOTICES.txt",
+     "sha256": "988212d107406a348d4dfda6392242460aa343a31a5b4ed7c793ee4050620bec"
     }
    ]
   },
@@ -191,47 +195,47 @@
    ]
   },
   "peak": {
-   "modVersion": "2026.10.11.1626",
+   "modVersion": "2026.11.04.2308",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/peak-2026.10.11.1626/peak-2026.10.11.1626.zip",
-    "sha256": "a77c262a0a388bed268beae68cb6dbdb34b7e268fc8f283b57fe8339030c3bf2",
-    "size": 58332
+    "url": "https://github.com/soykoru/koru-mods/releases/download/peak-2026.11.04.2308/peak-2026.11.04.2308.zip",
+    "sha256": "9e79af5a2f676e0d4af998d4c6358dd9688da8fd3704bc731438b9b4e467d8e9",
+    "size": 58334
    },
    "files": [
     {
      "dest": "KoruLink/KoruLinkPeak.dll",
-     "sha256": "389e3c525391f32ea346c0c215a9c82daca3cc4f270e9548e1232f3947c4c8e3"
+     "sha256": "a05f82fb523a92d2e8f5ea3e0fd1b2504da9e52d6cda467b1138c11ece21c7a3"
     }
    ]
   },
   "repo": {
-   "modVersion": "2026.10.02.1822",
+   "modVersion": "2026.11.04.2311",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/repo-2026.10.02.1822/repo-2026.10.02.1822.zip",
-    "sha256": "9b6ee29ab07ee266e139785734a4c7d333aa9f4b8a835218411bcac494cead86",
-    "size": 41760
+    "url": "https://github.com/soykoru/koru-mods/releases/download/repo-2026.11.04.2311/repo-2026.11.04.2311.zip",
+    "sha256": "86b3cc5db22bb3dd770b46dc8ad2b6f80150efe2caaede8e6ce698929a2a5332",
+    "size": 41886
    },
    "files": [
     {
      "dest": "KoruLinkRepo.dll",
-     "sha256": "d90796b317ed1c08e92f7752cdd3561d26f4b3dac56d49efbc1c68231d6db338"
+     "sha256": "8c215b4e4ac42a7c9b44c3786d8e949cf3ba202e36ab21d2c5f6cd252f5ff3b2"
     }
    ]
   },
   "ror2": {
-   "modVersion": "2026.10.11.1309",
+   "modVersion": "2026.11.04.2308",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/ror2-2026.10.11.1309/ror2-2026.10.11.1309.zip",
-    "sha256": "7c371348441ad0959e0e93e127220dd37dc1ce39af7aead055f8456074758877",
-    "size": 38072
+    "url": "https://github.com/soykoru/koru-mods/releases/download/ror2-2026.11.04.2308/ror2-2026.11.04.2308.zip",
+    "sha256": "00f4fc6a9b2f3ad52aa962c0b3d20001206524ce8a73ba810fc25bf51622ba01",
+    "size": 38069
    },
    "files": [
     {
      "dest": "KoruLinkRoR2.dll",
-     "sha256": "975361fb424fbdb488b794e92c7b70f28768e84d3d23e5772afafdcb1806f4a6"
+     "sha256": "35f315d07666f6b29361afb07053c7016858911a26d7420caa6467a90c8d6d9c"
     }
    ]
   },
@@ -251,66 +255,66 @@
    ]
   },
   "stardew_valley": {
-   "modVersion": "2026.10.02.1858",
+   "modVersion": "2026.11.04.2341",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/stardew_valley-2026.10.02.1858/stardew_valley-2026.10.02.1858.zip",
-    "sha256": "68365a47091f4d41f523f887ff9968cde354cc0ea6a75c20527405930d96ceb5",
-    "size": 78298
+    "url": "https://github.com/soykoru/koru-mods/releases/download/stardew_valley-2026.11.04.2341/stardew_valley-2026.11.04.2341.zip",
+    "sha256": "f06795b91b8a799b32e97391d3628faa8700008a534db5a77e2871e8dcb138f5",
+    "size": 78840
    },
    "files": [
     {
      "dest": "KoruLinkStardew/KoruLinkStardew.dll",
-     "sha256": "40d2e171b9a29307d244c0d306be4d5f18992b334d93dd79fe41cf0b9fc4526f"
+     "sha256": "b7340d06b239895854e4cfde35c408397bf3ad21b2e8dadfc901dc5040a0d178"
     },
     {
      "dest": "KoruLinkStardew/manifest.json",
-     "sha256": "f009fabe4e8a39e754d25f30b1aa24e7f1a25a68b4331391a80ca9666f5313f3"
+     "sha256": "80095b936e20e3dcf8f981c042be89aeadbacf2acc322cdc7c9b402582fd0726"
     }
    ]
   },
   "tcg_card_shop": {
-   "modVersion": "2026.10.02.1924",
+   "modVersion": "2026.11.04.2334",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/tcg_card_shop-2026.10.02.1924/tcg_card_shop-2026.10.02.1924.zip",
-    "sha256": "46567996dff84716746c5a7858e0dbfaf0ee7939c9fa12997e16f134e7e96359",
-    "size": 35347
+    "url": "https://github.com/soykoru/koru-mods/releases/download/tcg_card_shop-2026.11.04.2334/tcg_card_shop-2026.11.04.2334.zip",
+    "sha256": "fd3e31861d8412830b3e2d3a0004381c9f0ad0b72472b3c83875fe3b0a229352",
+    "size": 35475
    },
    "files": [
     {
      "dest": "KoruLinkTCG/KoruLinkTCG.dll",
-     "sha256": "e91eeec938aa9b5e8d8809a6e2b563401b6de3cd43e40a5476af0c57dbea8b06"
+     "sha256": "ae3398dcbfce1efde4a9e8f56abadf122da0eb74ef2f5f8421bbbac8336d9a98"
     }
    ]
   },
   "terraria": {
-   "modVersion": "2026.10.05.0004",
+   "modVersion": "2026.11.04.2308",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/terraria-2026.10.05.0004/terraria-2026.10.05.0004.zip",
-    "sha256": "714232fca2f2c0d8ddf0090d16e53d1f5f521ac4ba2daac4c2556b42bfcb2827",
-    "size": 97605
+    "url": "https://github.com/soykoru/koru-mods/releases/download/terraria-2026.11.04.2308/terraria-2026.11.04.2308.zip",
+    "sha256": "b90a6ec7059f33b974cde668400e92a35e567a001a5285bc3eb2108be531f286",
+    "size": 97678
    },
    "files": [
     {
      "dest": "KoruLinkTerraria.tmod",
-     "sha256": "ddda4e02502e668b11689d14eb4ed8ce1d9d71e32dfcd145363382fbb8ee3b6b"
+     "sha256": "25c7f3f7543f1e517f2f9bf2b248c9526b90c10a164135635f8a2f7f353c44c1"
     }
    ]
   },
   "valheim": {
-   "modVersion": "2026.10.02.1739",
+   "modVersion": "2026.11.04.2308",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/valheim-2026.10.02.1739/valheim-2026.10.02.1739.zip",
-    "sha256": "599eef21a3178c5f00632fae53ac239632df500e75f500718e5668248793fe32",
-    "size": 47791
+    "url": "https://github.com/soykoru/koru-mods/releases/download/valheim-2026.11.04.2308/valheim-2026.11.04.2308.zip",
+    "sha256": "dfdd68bbb7e6fd74842f7060fe3b6a2a287119fd1704d3dd360150f1b60a90bd",
+    "size": 47902
    },
    "files": [
     {
      "dest": "KoruLinkValheim.dll",
-     "sha256": "417815b8800137d9a784b95ffeb83b573800ecc0ae3587306234ecab235e826f"
+     "sha256": "6553758765e2f83ffff7b936498adff32cb588050887e2775016441bf5f86335"
     }
    ]
   },
@@ -516,8 +520,8 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-10-28T15:06:52+0000",
-    "time": "2026-10-28T15:06:52+0000",
+    "releaseTime": "2026-11-04T15:07:09+0000",
+    "time": "2026-11-04T15:07:09+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {
