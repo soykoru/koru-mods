@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "creado": "2026-11-05T05:01:53Z",
+ "creado": "2026-11-25T01:31:44Z",
  "mods": {
   "7_days_to_die": {
    "modVersion": "2026.11.04.2308",
@@ -240,17 +240,17 @@
    ]
   },
   "silksong": {
-   "modVersion": "2026.10.11.1536",
+   "modVersion": "2026.11.24.1948",
    "minKoru": 1,
    "zip": {
-    "url": "https://github.com/soykoru/koru-mods/releases/download/silksong-2026.10.11.1536/silksong-2026.10.11.1536.zip",
-    "sha256": "21818114f8eb8103b6559b75f6baddf865806f95f7d0f8dd3ec56b6b1c04efd6",
-    "size": 74772
+    "url": "https://github.com/soykoru/koru-mods/releases/download/silksong-2026.11.24.1948/silksong-2026.11.24.1948.zip",
+    "sha256": "5f338bf92ea9f053725676003522c7b434f6a3eae3ddbe04feae69660bee8c26",
+    "size": 75515
    },
    "files": [
     {
      "dest": "KoruLink/KoruLinkSilksong.dll",
-     "sha256": "76f6c732a429e01d1de28b4e2a3bbd163f21d3323b0efda3c5d6a96ac6721a45"
+     "sha256": "22b67fc25b30abcd188fd70e5807d7138c06e05dba24e08427ce10002737cca0"
     }
    ]
   },
@@ -520,13 +520,15 @@
    "perfil": {
     "id": "fabric-loader-0.19.5-26.3",
     "inheritsFrom": "26.3",
-    "releaseTime": "2026-11-04T15:07:09+0000",
-    "time": "2026-11-04T15:07:09+0000",
+    "releaseTime": "2026-11-24T15:08:36+0000",
+    "time": "2026-11-24T15:08:36+0000",
     "type": "release",
     "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
     "arguments": {
      "game": [],
      "jvm": [
+      "-XX:+UnlockDiagnosticVMOptions",
+      "-XX:-UseBASE64Intrinsics",
       "-DFabricMcEmu= net.minecraft.client.main.Main "
      ]
     },
